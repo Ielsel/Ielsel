@@ -120,7 +120,7 @@ Me chamo Leslei Almeida Lima, Tenho 20 anos e sou de Macapá, porém vivo em Bra
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
