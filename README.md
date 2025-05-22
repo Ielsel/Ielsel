@@ -1,6 +1,6 @@
 # 🐱‍👤 Leslei Lima
 
-**`Desenvolverdor`**
+**`Desenvolvedor`**
 
 Me chamo Leslei Almeida Lima, Tenho 20 anos e sou de Macapá, porém vivo em Brasília/DF. Concluí o ensino médio no Instituto Federal de Brasília (IFB) fazendo curso técnico de TI integrado. Atualmente estou cursando Ciência da Computação na UDF. Sou uma pessoa apaixonada por computadores, edição de vídeos, jogos e tecnologia em geral. Gosto de passar o tempo com a minha família, jogando e colecionando miniaturas Geek etc. Atualmente procuro trabalhar para unir o conhecimento à prática. 
 
