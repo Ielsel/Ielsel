@@ -9,7 +9,7 @@ Me chamo Leslei Almeida Lima, Tenho 20 anos e sou de Macapá, porém vivo em Bra
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Ielsel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Ielsel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&cache_seconds=60"
         />
     </a>
 </p>
@@ -127,7 +127,7 @@ Me chamo Leslei Almeida Lima, Tenho 20 anos e sou de Macapá, porém vivo em Bra
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ielsel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=60" 
+    src="https://github-readme-stats.vercel.app/api?username=Ielsel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
   />
 
 <img 
@@ -139,5 +139,7 @@ Me chamo Leslei Almeida Lima, Tenho 20 anos e sou de Macapá, porém vivo em Bra
   />
 
 </p>
+
+
 
           
