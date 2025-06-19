@@ -114,6 +114,15 @@ Me chamo Leslei Almeida Lima, Tenho 20 anos e sou de Macapá, porém vivo em Bra
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+/>
           
 
 <br>
